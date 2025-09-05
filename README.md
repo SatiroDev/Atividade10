@@ -6,7 +6,9 @@ Esta atividade foi desenvolvida como parte das práticas da disciplina de **Dese
 
 ## 🌐 Acesse o site
 
-No momento, o site ainda **não está disponível**. Assim que for finalizado, o link será adicionado aqui.
+Você pode visualizar o projeto funcionando através do link abaixo:
+
+👉 [Clique aqui para acessar o site](https://satirodev.github.io/Atividade10/)
 
 
 
